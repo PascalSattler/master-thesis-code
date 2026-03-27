@@ -1,0 +1,8 @@
+#translation vectors,#spins,sublattice,basis vector,ground state direction,spin length,gyromagnetic matrix,#interactions,reference sublat,neighbor sublat,difference vector,interaction matrix,#parameters,value,full name
+,,,,,,,,,,,,a,1,lattice constant
+,,,,,,,,,,,,S1,1,spin length
+,,,,,,,,,,,,g,1,gyromagnetic factor
+,,,,,,,,,,,,B,"(0,0,0)",magnetic field vector
+,,,,,,,,,,,,J,-1,exchange interaction magnitude
+,,,,,,,,,,,,A,0,anisotropy magnitude
+,,,,,,,,,,,,Dz,0,DMI out-of-plane magnitude

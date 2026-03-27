@@ -1,0 +1,17 @@
+#translation vectors,,,,
+"[1,0,0]",,,,
+"[0,a,0]",,,,
+"[0,0,1]",,,,
+,,,,
+#spins,,,,
+sublattice,basis vector,ground state,spin length,
+1,"[0,0,0]","[0,0,1]",S ,
+,,,,
+#interactions,,,,
+reference sublat,neighbor sublat,difference vector,interaction matrix,
+1,1,"[0,1,0]","[[J,0,0],[0,J,0],[0,0,J]]",
+1,1,"[0,0,0]","[[0,0,0],[0,0,0],[0,0,A]]",
+,,,,
+#parameters,,,,
+a,S,J,A,Dz
+1,1,-1,0,0
